@@ -9,8 +9,6 @@ class Main {
 
     //ANSWER: 
 
-    //THIS IS THE CHANGE I MAKE IN 2nd Period yay!
-
     //Throughout the year this year we will need to store information. For that we will be using VARIABLES!
 
     //Java is an Object-Oriented programming language. All variables we use this year will either be OBJECTS or PRIMITIVES

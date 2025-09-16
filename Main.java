@@ -8,9 +8,7 @@ class Main {
     //We will be using System.out.println and System.out.print throughout the year. Try using both below to see what the difference is!
 
 
-
-
-
+    //this is my update for period 1
 
     //ANSWER: 
 
